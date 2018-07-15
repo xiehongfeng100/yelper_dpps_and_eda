@@ -1,2 +1,1 @@
-# Yelper Preprocessing
-Data preprocessing for Yelper.
+# Yelper Data Preprocessing (DPPS) and Exploratory Data Analysis (EDA)
