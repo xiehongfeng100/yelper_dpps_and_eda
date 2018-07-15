@@ -1,8 +1,7 @@
 # Yelper DPPS and EDA
 
-----------
-
-## Yelper DPPS (Data Preprocessing)
+### 1. Yelper DPPS (Data Preprocessing)
 *LINKS TO NOTEBOOK*
-## Yelper EDA (Exploratory Data Analysis)
+
+### 2. Yelper EDA (Exploratory Data Analysis)
 *LINKS TO NOTEBOOK*
