@@ -1,2 +1,2 @@
-# yelper_backend
-Yelp recomendation backend.
+# Yelper Preprocessing
+Data preprocessing for Yelper.
